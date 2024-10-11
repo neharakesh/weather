@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+</head>
+<body>
+    
+    <div class="container flex">
+        <a href="#">
+            <img src="background.jpg" alt="">
+        </a>
+        <div class="text flex">
+        <h1>want to know the weather?</h1>
+    
+        <a class="btn" href="index2.html">Click ME</a>
+     
+        </div>
+    </div>
+</body>
+</html>
